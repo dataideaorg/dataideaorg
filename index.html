@@ -27,6 +27,131 @@
       href="/images/dataidea-logo.png"
       type="image/x-icon"
     />
+
+    <!-- css -->
+    <style>
+      /* General styles */
+      .hero-section {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        height: 100vh; /* Full viewport height */
+      }
+
+      .hero-background {
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+      }
+
+      .hero-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 131, 116, 0.5); /* Semi-transparent overlay */
+        z-index: 1;
+      }
+
+      .hero-content {
+        position: relative;
+        z-index: 2;
+        padding: 20px;
+        text-align: center; /* Center text by default */
+      }
+
+      .hero-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center content horizontally */
+      }
+
+      /* Responsive styles */
+      .hero-description {
+        width: 100%; /* Full width on smaller screens */
+      }
+
+      .hero-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: white;
+        margin-bottom: 1rem;
+      }
+
+      .hero-paragraph {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+      }
+
+      .hero-button {
+        background-color: #008374;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 5px;
+        display: inline-block;
+      }
+
+      .hero-button:hover {
+        background-color: #ccc;
+      }
+
+      @media (min-width: 769px) {
+        .hero-content {
+          text-align: left; /* Align text left on wider screens */
+        }
+
+        .hero-text {
+          align-items: flex-start; /* Align text to the start on wider screens */
+        }
+
+        .hero-description {
+          width: 50%; /* 50% width on wider screens */
+        }
+      }
+
+      @media (max-width: 768px) {
+        .hero-title {
+          font-size: 1.8rem;
+        }
+
+        .hero-paragraph {
+          font-size: 0.9rem;
+        }
+
+        .hero-button {
+          padding: 8px 16px;
+          font-size: 0.9rem;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .hero-title {
+          font-size: 2rem;
+          font-weight: bold;
+          font-family: "Horta";
+        }
+
+        .hero-paragraph {
+          font-size: 1rem;
+        }
+
+        .hero-button {
+          padding: 6px 12px;
+          font-size: 1rem;
+        }
+
+        .hero-description {
+          width: 90%; /* Slightly reduced width on the smallest screens */
+        }
+      }
+    </style>
   </head>
   <body>
     <div class="bg-top navbar-light">
@@ -35,8 +160,11 @@
           class="row no-gutters d-flex align-items-center align-items-stretch"
         >
           <div class="col-md-4 d-flex align-items-center py-4">
-            <a class="navbar-brand" href="https://www.dataidea.org/"
-              >DATAIDEA<span>Programming for Data Science</span></a
+            <a
+              class="navbar-brand"
+              href="https://www.dataidea.org/"
+              style="font-family: Horta"
+              >DATAIDEA<span style="font-family: 'DM Sans';">Programming for Data Science</span></a
             >
           </div>
           <div class="col-lg-8 d-block">
@@ -126,24 +254,23 @@
     </nav>
     <!-- END nav -->
 
-    <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url(images/bg_1.jpg)">
-        <div class="overlay"></div>
-        <div class="container">
-          <div
-            class="row no-gutters slider-text align-items-center justify-content-start"
-            data-scrollax-parent="true"
-          >
-            <div class="col-md-6 ftco-animate">
-              <h1 class="mb-4">Programming for Data Science</h1>
-              <p>
-                Comprehensive and dynamic courses designed to equip you with the
-                skills to thrive in data science.
+    <section class="hero-section">
+      <div
+        class="hero-background"
+        style="background-image: url(images/bg_1.jpg)"
+      >
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+          <div class="hero-text">
+            <div class="hero-description">
+              <h1 class="hero-title">Programming for Data Science</h1>
+              <p class="hero-paragraph">
+                We teach people to Programming for Data Science and Web
+                Development. We also Develop Software solutions for individuals
+                and organizations
               </p>
               <p>
-                <a href="#" class="btn btn-primary px-4 py-3 mt-3"
-                  >Contact Us</a
-                >
+                <a href="#" class="hero-button">Contact Us</a>
               </p>
             </div>
           </div>
