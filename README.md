@@ -3,14 +3,12 @@
 # 👋 Hi there, we're DATAIDEA
 
 ### 🚀 Programming for Data Science
+**We offer hands-on data science training and build custom websites and AI tools for individuals and organizations**
 
 [![Website](https://img.shields.io/badge/Website-dataidea.org-blue?style=for-the-badge&logo=google-chrome)](https://www.dataidea.org)
 [![Email](https://img.shields.io/badge/Email-dataideaorg@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dataideaorg@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+256%20701%20520768-green?style=for-the-badge&logo=whatsapp)](tel:+256701520768)
 
-**We offer hands-on data science training and build custom websites and AI tools for individuals and organizations**
-
-📍 Based in Kampala, Uganda | 🌍 Empowering Africans with world-class tech education
 
 ---
 
@@ -25,33 +23,25 @@
 ### 📚 Our Programs
 
 🐍 **Python Fundamentals**
-Build a strong foundation in programming
 
 📊 **Data Analysis**
-Master data manipulation and visualization
 
 🤖 **Machine Learning**
-Learn to build predictive models
 
 🧠 **Deep Learning & AI**
-Dive into neural networks and advanced AI
 
 </td>
 <td width="50%">
 
-### ✨ What's Included
+## 💻 Development Services
 
-✅ Live and recorded sessions
+🌐 **Web & API Development**
 
-✅ Hands-on projects
+📊 **Data Analytics Dashboards** 
 
-✅ Job placement support
+🛠️ **ML Integration**
 
-✅ Mentorship from industry experts
-
-✅ Professional certifications
-
-✅ Supportive community across Africa
+🔧 **Support & Maintenance** 
 
 </td>
 </tr>
@@ -59,9 +49,8 @@ Dive into neural networks and advanced AI
 
 ---
 
-## 💻 Development Services
 
-<div align="center">
+<div align="center" width="80%">
 
 | Service | Description |
 |---------|-------------|
