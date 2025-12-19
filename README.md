@@ -15,6 +15,7 @@
 [![Website](https://img.shields.io/badge/Website-dataidea.org-blue?style=for-the-badge&logo=google-chrome)](https://www.dataidea.org)
 [![Email](https://img.shields.io/badge/Email-dataideaorg@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dataideaorg@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+256%20701%20520768-green?style=for-the-badge&logo=whatsapp)](tel:+256701520768)
+[![Linktree](https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dataidea)
 
 
 ---
