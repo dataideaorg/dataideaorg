@@ -24,13 +24,13 @@
 
 ### 🎓 Data Science Education
 
-🐍 **Python Fundamentals**
+🐍 **Python Fundamentals**(Python/Javascript)
 
-📊 **Data Analysis**
+📊 **Data Manipulation, Analysis and Visualization**
 
-🤖 **Machine Learning**
+🤖 **Machine Learning & AI**
 
-🧠 **Deep Learning & AI**
+🧠 **Deep Learning Specialization**
 
 </td>
 <td width="50%">
@@ -41,7 +41,7 @@
 
 📊 **Data Analytics Dashboards**
 
-🛠️ **ML Integration**
+🛠️ **Machine Learning Integration**
 
 🔧 **Support & Maintenance**
 
