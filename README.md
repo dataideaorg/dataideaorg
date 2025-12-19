@@ -18,24 +18,29 @@
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed; padding: 1.5rem;" >
+<table width="100%">
 <tr>
-<td width="50%">
+<td align="center" width="50%">
+<br>
 
-### 🎓 Data Science Education
+### 🎓
+### Data Science Education
 
-🐍 **Python Fundamentals**(Python/Javascript)
+🐍 **Python Fundamentals** (Python/Javascript)
 
-📊 **Data Manipulation, Analysis and Visualization**
+📊 **Data Manipulation, Analysis & Visualization**
 
 🤖 **Machine Learning & AI**
 
 🧠 **Deep Learning Specialization**
 
+<br>
 </td>
-<td width="50%">
+<td align="center" width="50%">
+<br>
 
-### 💻 Development Services
+### 💻
+### Development Services
 
 🌐 **Web & API Development**
 
@@ -45,6 +50,7 @@
 
 🔧 **Support & Maintenance**
 
+<br>
 </td>
 </tr>
 </table>
