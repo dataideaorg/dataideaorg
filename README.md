@@ -14,13 +14,13 @@
 
 </div>
 
-## 🎓 Data Science Education
+## Our Services
 
-<table>
+<table width="90%" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed">
 <tr>
 <td width="50%">
 
-### 📚 Our Programs
+### 🎓 Data Science Education
 
 🐍 **Python Fundamentals**
 
@@ -33,7 +33,7 @@
 </td>
 <td width="50%">
 
-## 💻 Development Services
+### 💻 Development Services
 
 🌐 **Web & API Development**
 
@@ -50,7 +50,7 @@
 ---
 
 
-<div align="center" width="80%">
+<div align="center" width="90%">
 
 | Service | Description |
 |---------|-------------|
