@@ -50,7 +50,7 @@
 
 - **Web & API Development**
 - **Data Analytics Dashboards**
-- **Machine Learning and Artificial Intelligence Integration**
+- **Machine Learning and AI Integration**
 - **Support & Maintenance**
 
 <br>
