@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed; padding: 1.5rem;" >
 <tr>
 <td width="50%">
 
