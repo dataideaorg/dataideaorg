@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=008374&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+Welcome+To+DATAIDEA!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=FFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+Welcome+To+DATAIDEA!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
