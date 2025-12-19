@@ -27,7 +27,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 <br>
 
 ### 🎓 Data Science Education
@@ -43,7 +43,7 @@
 
 <br>
 </td>
-<td width="50%" align="center">
+<td width="50%">
 <br>
 
 ### 💻 Development Services
