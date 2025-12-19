@@ -1,25 +1,19 @@
 # Hi there, we're DATAIDEA 👋
 
-### Empowering Africans with world-class data science and AI education
+### Programming for Data Science
 
-We're an educational organization based in Kampala, Uganda, providing hands-on data science training and custom development solutions. We combine technical education with professional services to help individuals and organizations harness the power of data and AI.
+We offer hands on data science training and build custom websites and AI tools for individuals and organizations
 
 ---
 
 ## 🎓 What We Do
 
-### Education Programs
+### Data Science Education
 We offer comprehensive, career-focused training in:
 - **Python Fundamentals** - Build a strong foundation in programming
 - **Data Analysis** - Master data manipulation and visualization
 - **Machine Learning** - Learn to build predictive models
 - **Deep Learning & AI** - Dive into neural networks and advanced AI
-
-All programs include:
-- Live and recorded sessions
-- Hands-on projects
-- Job placement support
-- Mentorship from industry experts
 
 ### 💻 Development Services
 We build custom solutions for businesses:
@@ -50,11 +44,11 @@ Our alumni have gone on to work with leading organizations including:
 
 ## 🌟 Why Choose DATAIDEA?
 
-✅ **Industry-focused curriculum** designed around real market demand
-✅ **Expert instructors** from leading tech companies
-✅ **Supportive community** across the African continent
-✅ **Flexible learning** with scalable options
-✅ **Professional certifications** recognized by employers
+- **Industry-focused curriculum** designed around real market demand
+- **Expert instructors** from leading tech companies
+- **Supportive community** across the African continent
+- **Flexible learning** with scalable options
+- **Professional certifications** recognized by employers
 
 ---
 
