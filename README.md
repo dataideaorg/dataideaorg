@@ -71,17 +71,48 @@
 
 ## 🌟 Why Choose DATAIDEA?
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<br>
 
-| | |
-|---|---|
-| 🎯 | **Industry-focused curriculum** designed around real market demand |
-| 👨‍🏫 | **Expert instructors** from leading tech companies |
-| 🤝 | **Supportive community** across the African continent |
-| ⚡ | **Flexible learning** with scalable options |
-| 🏆 | **Professional certifications** recognized by employers |
+### 🎯
+### Industry-Focused Curriculum
+**Designed around real market demand and practical skills**
 
-</div>
+<br>
+</td>
+<td align="center" width="50%">
+<br>
+
+### 👨‍🏫
+### Expert Instructors
+**From leading tech companies worldwide**
+
+<br>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<br>
+
+### 🤝
+### Supportive Community
+**Network across the African continent**
+
+<br>
+</td>
+<td align="center" width="50%">
+<br>
+
+### 🏆
+### Professional Certifications
+**Recognized by top employers**
+
+<br>
+</td>
+</tr>
+</table>
 
 ---
 
