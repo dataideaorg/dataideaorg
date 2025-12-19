@@ -46,23 +46,6 @@
 </td>
 </tr>
 </table>
-
----
-
-
-<div align="center" width="90%">
-
-| Service | Description |
-|---------|-------------|
-| 🌐 **Web Applications** | Custom, scalable web solutions |
-| 🤖 **AI Tool Development** | Intelligent automation and ML systems |
-| 📊 **Data Analytics Dashboards** | Interactive data visualization platforms |
-| 🔗 **API Development** | Robust and secure API services |
-| 🛠️ **ML Integration** | Seamless machine learning deployment |
-| 🔧 **Support & Maintenance** | Ongoing technical assistance |
-
-</div>
-
 ---
 
 ## 📈 Our Impact
