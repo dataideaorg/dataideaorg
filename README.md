@@ -157,42 +157,21 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-<br>
+### 📚 [The Definitive Ranking of Data Science Books You Need to Read](https://blog.dataidea.org/2025/11/11/the-definitive-ranking-of-data-science-books-you-need-to-read/)
 
-### 📚
-### [The Definitive Ranking of Data Science Books](https://blog.dataidea.org/2025/11/11/the-definitive-ranking-of-data-science-books-you-need-to-read/)
+Must-read books every data scientist should have on their shelf
 
-**Must-read books every data scientist should have on their shelf**
+[![Read Article](https://img.shields.io/badge/Read%20Article-orange?style=for-the-badge)](https://blog.dataidea.org/2025/11/11/the-definitive-ranking-of-data-science-books-you-need-to-read/)
 
-<br>
+---
 
-[![Read More](https://img.shields.io/badge/Read%20Article-Click%20Here-orange?style=for-the-badge)](https://blog.dataidea.org/2025/11/11/the-definitive-ranking-of-data-science-books-you-need-to-read/)
+### 🎥 [The Best YouTube Channels for Learning Programming in 2025](https://blog.dataidea.org/2025/11/24/the-best-youtube-channels-for-learning-programming-in-2025/)
 
-<br>
-</td>
-<td align="center" width="50%">
-<br>
+Top channels to accelerate your programming journey in 2025
 
-### 🎥
-### [Best YouTube Channels for Programming](https://blog.dataidea.org/2025/11/24/the-best-youtube-channels-for-learning-programming-in-2025/)
+[![Read Article](https://img.shields.io/badge/Read%20Article-orange?style=for-the-badge)](https://blog.dataidea.org/2025/11/24/the-best-youtube-channels-for-learning-programming-in-2025/)
 
-**Top channels to accelerate your programming journey in 2025**
-
-<br>
-
-[![Read More](https://img.shields.io/badge/Read%20Article-Click%20Here-orange?style=for-the-badge)](https://blog.dataidea.org/2025/11/24/the-best-youtube-channels-for-learning-programming-in-2025/)
-
-<br>
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
+---
 
 [![View All Blogs](https://img.shields.io/badge/View%20All%20Blogs-blog.dataidea.org-blueviolet?style=for-the-badge&logo=blogger)](https://blog.dataidea.org)
 
