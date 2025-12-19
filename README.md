@@ -181,7 +181,7 @@ n an era where quality programming education is more accessible than ever, YouTu
 
 ## 🤝 Get Involved
 
-<div>
+<div align="center">
 
 ### Ready to start your data science journey or build your next project?
 
