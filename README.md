@@ -32,7 +32,7 @@
 
 ### 🎓 Data Science Education
 
-- **Python Fundamentals** (Python/Javascript)
+- **Python Fundamentals**
 - **Data Manipulation, Analysis & Visualization**
 - **Machine Learning & AI**
 - **Deep Learning Specialization**
