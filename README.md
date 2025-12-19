@@ -20,19 +20,19 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 <br>
 
 ### 🎓
 ### Data Science Education
 
-🐍 **Python Fundamentals** (Python/Javascript)
+- **Python Fundamentals** (Python/Javascript)
 
-📊 **Data Manipulation, Analysis & Visualization**
+- **Data Manipulation, Analysis & Visualization**
 
-🤖 **Machine Learning & AI**
+- **Machine Learning & AI**
 
-🧠 **Deep Learning Specialization**
+- **Deep Learning Specialization**
 
 <br>
 </td>
@@ -42,13 +42,13 @@
 ### 💻
 ### Development Services
 
-🌐 **Web & API Development**
+- **Web & API Development**
 
-📊 **Data Analytics Dashboards**
+- **Data Analytics Dashboards**
 
-🛠️ **Machine Learning Integration**
+-️ **Machine Learning Integration**
 
-🔧 **Support & Maintenance**
+- **Support & Maintenance**
 
 <br>
 </td>
