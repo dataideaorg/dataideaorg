@@ -48,9 +48,9 @@
 
 ### 💻 Development Services
 
-- **Web Application & API Development**
+- **Web & API Development**
 - **Data Analytics Dashboards**
-- **Machine Learning Integration**
+- **Machine Learning and Artificial Intelligence Integration**
 - **Support & Maintenance**
 
 <br>
