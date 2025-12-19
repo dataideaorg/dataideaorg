@@ -1,6 +1,13 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=👋+Hi+there,+welcome+to+DATAIDEA;Programming+for+Data+Science;Building+the+Future+of+Tech+in+Africa" alt="Typing SVG" /></a>
+<div align="center">
+
+<!-- Dynamic Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=008374&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+Welcome+To+DATAIDEA!)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ### 🚀 Programming for Data Science
 **We offer hands-on data science training and build custom websites and AI tools for individuals and organizations**
@@ -156,4 +163,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/dataidea?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/dataidea?style=social)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
