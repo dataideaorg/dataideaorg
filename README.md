@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, we're DATAIDEA
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=👋+Hi+there,+welcome+to+DATAIDEA;Programming+for+Data+Science;Building+the+Future+of+Tech+in+Africa" alt="Typing SVG" /></a>
 
 ### 🚀 Programming for Data Science
 **We offer hands-on data science training and build custom websites and AI tools for individuals and organizations**
