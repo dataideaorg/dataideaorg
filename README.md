@@ -16,7 +16,9 @@
 
 ## Our Services
 
-<table width="90%" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed">
+<div align="center">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed">
 <tr>
 <td width="50%">
 
@@ -37,15 +39,17 @@
 
 🌐 **Web & API Development**
 
-📊 **Data Analytics Dashboards** 
+📊 **Data Analytics Dashboards**
 
 🛠️ **ML Integration**
 
-🔧 **Support & Maintenance** 
+🔧 **Support & Maintenance**
 
 </td>
 </tr>
 </table>
+
+</div>
 ---
 
 ## 📈 Our Impact
@@ -71,7 +75,9 @@
 
 ## 🌟 Why Choose DATAIDEA?
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td align="center" width="50%">
 <br>
@@ -113,6 +119,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
