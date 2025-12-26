@@ -193,10 +193,5 @@ n an era where quality programming education is more accessible than ever, YouTu
 
 ---
 
-### 🌍 Let's build the future of tech in Africa, together!
-
-![GitHub followers](https://img.shields.io/github/followers/dataidea?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dataidea?style=social)
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
