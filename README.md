@@ -191,7 +191,5 @@ n an era where quality programming education is more accessible than ever, YouTu
 
 **Explore our repositories to see what we're building and contributing to the open-source community!**
 
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
